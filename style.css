@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+}
+
+.cabecalho {
+    border: solid red 1px;
+    background-color: #7b61ff;
+}
+
+.text_pag {
+    border: solid red 1px;
+    background-color: #333333;
+}
+
+.descrition {
+    border: solid blue 1px;
+}
+
+.img_pag {
+    border: solid blue 1px;
+}
+
+.likes_install {
+    border: solid blue 1px;   
+}
+
+.made_works {
+    border: solid blue 1px;
+}
+
+.pag_two {
+    border: solid red 1px;
+    background-color: ;
+}
+
+.text_pag_two {
+    border: solid pink 1px;
+}
+
+.descrition_two {
+    border: solid pink 1px;
+}
+
+.list_fuction {
+    border: solid pink 1px;
+}
+
+.img_pag_two {
+    
+}
+
+.pag_three {
+    border: solid red 1px;
+    background-color: ;
+}
+
+.text_pag_three {
+    border: solid orange 1px;
+}
+
+.descrition_three {
+    border: solid orange 1px;
+}
+
+.list_fuction_three {
+    border: solid orange 1px;
+}
+
+.img_pag_three {
+
+}
+    
+.pag_four {
+    border: solid red 1px;
+    background-color: ;
+}
+
+.text_pag_four {
+    border: solid gold 1px;
+}
+
+.descrition_four {
+    border: solid gold 1px;
+}
+
+.automator {
+    border: solid gold 1px;
+}
+
+.prototyper {
+    border: solid gold 1px;
+}
+
+.list_teams {
+    border: solid gold 1px;
+}
+
+.pag_five {
+    border: solid red 1px;
+    background-color: ;
+}
+
+.text_page_five {
+    border: solid purple 1px;
+}
+
+.descrition_five {
+    border: solid purple 1px;
+}
+
+.public_beta {
+    border: solid purple 1px;
+}
+
+.switch {
+    border: solid purple 1px;
+}
+
+.price {
+    border: solid purple 1px;
+}
+
+
+.pag_six {
+    border: solid red 1px;
+    background-color: ;
+}
+
+.descrition_six {
+    border: solid green 1px ;
+}
+
+.rodape {
+    border: solid green 1px;
+}
